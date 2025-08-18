@@ -40,7 +40,8 @@
 
 >>>>> SUMMARY <<<<<
 ####################################################################
-impossible artifact is a 7 week initiation in the art of making what
+grow the ranks of the order of imposssible artifacts on solana
+"tooia" is a 7 week initiation in the art of creating what
 should not exist. it unfolds on solana with metaplex, where the
 blockchain acts as a ritual field: ownership bends, permanence becomes
 decay, and contradictions become material.
@@ -122,6 +123,19 @@ responses should address:
 
 submission is via google form (link provided separately). selected
 initiates will be contacted directly.
+
+>>>>> fubby14 <<<<<
+####################################################################
+fubby14 is an artist working at the intersection of generative systems,
+blockchain ritual, and narrative design. projects often merge code,
+poetry, and visual form into artifacts that bend systems into new
+shapes. works like 14x14, grim 1400, and smoke and ash explore slow
+generative processes, ritual mechanics, and ownership as choreography.
+
+as both practitioner and witch, fubby14 treats the chain as a stage
+for contradictions: permanence that decays, tokens that wander,
+systems that sing. the practice is minimal and deliberate, always
+seeking to reveal the strange edges hidden inside ordinary structures.
 
 >>>>> CONTACT <<<<<
 ####################################################################
