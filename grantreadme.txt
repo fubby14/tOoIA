@@ -76,7 +76,7 @@ we use token data and on chain events as seeds, but we do not make
 charts. we make relics. form first. poetry in the parameters. clarity
 in the rules.
 
->>>>> STRUCTURE (7+0 weeks) <<<<<
+>>>>> STRUCTURE (0+7 weeks) <<<<<
 ####################################################################
 - session 0: wallet setup, profiles, first mint, light lecture,
   set the spell
