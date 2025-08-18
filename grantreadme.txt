@@ -52,6 +52,13 @@ leaves with one impossible artifact, a digital relic that exists only
 because the chain enforces its contradictions. together, the cohort
 forms a public codex.
 
+>>>>> IMPACT <<<<<
+####################################################################
+- 20 to 30 finished works across the cohort
+- open documentation (notes, recordings, templates)
+- public codex release and mint
+- participants leave with practical fluency in on chain art making
+
 >>>>> REQUIREMENTS <<<<<
 ####################################################################
 - a computer
@@ -80,13 +87,6 @@ in the rules.
 - week 5: rules that learn to break
 - week 6: refinement, framing, writing
 - week 7: final artifact and the codex
-
->>>>> IMPACT <<<<<
-####################################################################
-- 20 to 30 finished works across the cohort
-- open documentation (notes, recordings, templates)
-- public codex release and mint
-- participants leave with practical fluency in on chain art making
 
 >>>>> BUDGET OUTLINE (adjustable) <<<<<
 ####################################################################
