@@ -56,7 +56,7 @@ forms a public codex.
 ####################################################################
 - a computer
 - discord connection
-- 15 to 20 hours available per week
+- 10 to 14 hours available per week
 
 >>>>> METHOD <<<<<
 ####################################################################
