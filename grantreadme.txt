@@ -135,7 +135,7 @@ and three links to past work. the focus is on your way of thinking,
 not a polished cv.
 
 responses should address:
-- what draws you to impossible artifact
+- what draws you to impossible artifact?
 - what excites you most about combining technology and creativity?
 - describe a moment when you experimented with a new tool.
   what did you learn?
