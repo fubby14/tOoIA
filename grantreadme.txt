@@ -118,7 +118,7 @@ not a polished cv.
 
 responses should address:
 - what is your story?
-- what reason do you have for joining the order of impossible artifact?
+- why do you desire to join the order of impossible artifact?
 - what excites you most about combining technology and creativity?
 - describe a moment when you experimented with a new tool.
   what did you learn?
