@@ -77,17 +77,16 @@ we use token data and on chain events as seeds, but we do not make
 charts. we make relics. form first. poetry in the parameters. clarity
 in the rules.
 
->>>>> STRUCTURE (0+7 weeks) <<<<<
+>>>>> STRUCTURE (weeks 0-7 weeks) <<<<<
 ####################################################################
-- session 0: wallet setup, profiles, first mint, light lecture,
-  set the spell
-- week 1: basic mint as personal grimoire 
-- week 2: sketches of artifacts that defy reason
-- week 3: fragments from generative systems
-- week 4: spaces that hold contradictions
-- week 5: break all the rules 
-- week 6: refinement, framing, writing
-- week 7: final artifact and the codex
+session 0: cross the threshold   [theme: threshold | tool: mallow]
+session 1: see the magic         [theme: fragments | tool: explorers]
+session 2: what should not be    [theme: contradiction | tool: core minter]
+session 3: speak with machines   [theme: divination | tool: chat gpt]
+session 4: build with machines   [theme: divination II | tool: cursor]
+session 5: given form            [theme: conjuration | tool: blender]
+session 6: presentation          [theme: space | tool: portals]
+session 7: seal the relic        [theme: impossible artifact | tool: mallow]
 
 >>>>> BUDGET OUTLINE (adjustable) <<<<<
 ####################################################################
