@@ -83,9 +83,9 @@ session 0: cross the threshold   [theme: threshold | tool: mallow]
 session 1: see the magic         [theme: fragments | tool: explorers]
 session 2: what should not be    [theme: contradiction | tool: core minter]
 session 3: speak with machines   [theme: divination | tool: chat gpt]
-session 4: build with machines   [theme: divination II | tool: cursor]
+session 4: build with machines   [theme: ritual coding | tool: cursor]
 session 5: given form            [theme: conjuration | tool: blender]
-session 6: presentation          [theme: space | tool: portals]
+session 6: opening the gate      [theme: space | tool: portals]
 session 7: seal the relic        [theme: impossible artifact | tool: mallow]
 
 >>>>> BUDGET OUTLINE (adjustable) <<<<<
