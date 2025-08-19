@@ -54,7 +54,7 @@ forms a public codex.
 
 >>>>> IMPACT <<<<<
 ####################################################################
-- 42 works across the cohort
+- 7 artist make 6 sketches and one impossible artifact each
 - open documentation (notes, templates)
 - public codex release and mint
 - participants leave with practical fluency in on-chain art making
@@ -112,7 +112,7 @@ not a polished cv.
 
 responses should address:
 - what is your story?
-- why do you desire to join the order of impossible artifact?
+- why do you desire to join the order of impossible artifacts?
 - what excites you most about combining technology and creativity?
 - describe a moment when you experimented with a new tool.
   what did you learn?
@@ -141,5 +141,5 @@ seeking to reveal the strange edges hidden inside ordinary structures.
 
 >>>>> VERSION AND DATE <<<<<
 ####################################################################
-- version: 0.14 (draft)
+- version: 0.1414 (second draft)
 - last updated: 2025-08-18
