@@ -40,36 +40,37 @@
 
 >>>>> SUMMARY <<<<<
 ####################################################################
-grow the ranks of the order of imposssible artifacts on solana
-"tooia" is a 7 week initiation in the art of creating what
+we will grow the ranks of the order of imposssible artifacts on solana.
+"tooia" is a 7-week initiation in the art of creating what
 should not exist. it unfolds on solana with metaplex, where the
 blockchain acts as a ritual field: ownership bends, permanence becomes
-decay, and contradictions become material.
+decay and contradictions become material.
 
 initiates learn by doing through weekly sparks: a tool intro, a short
-talk, and one small spell. the end goal is singular: each initiate
+talk and one small spell. the end goal is singular: each initiate
 leaves with one impossible artifact, a digital relic that exists only
 because the chain enforces its contradictions. together, the cohort
 forms a public codex.
 
 >>>>> IMPACT <<<<<
 ####################################################################
-- 20 to 30 finished works across the cohort
-- open documentation (notes, recordings, templates)
+- 42 works across the cohort
+- open documentation (notes, templates)
 - public codex release and mint
-- participants leave with practical fluency in on chain art making
+- participants leave with practical fluency in on-chain art making
+- cohort of artists pushing beyond pointers to jpegs
 
 >>>>> REQUIREMENTS <<<<<
 ####################################################################
 - a computer
 - discord connection
 - 10 to 14 hours available per week
-- twitter profile link
+- twitter profile
 
 >>>>> METHOD <<<<<
 ####################################################################
 we work slowly, with accessible guis and intuitive editors. this is
-vibe coding as witchcraft. randomness, selection, and hand driven
+vibe coding as witchcraft. randomness, selection and hand driven
 tweaks are braided into a human in the loop process.
 
 we use token data and on chain events as seeds, but we do not make
@@ -80,11 +81,11 @@ in the rules.
 ####################################################################
 - session 0: wallet setup, profiles, first mint, light lecture,
   set the spell
-- week 1: basic mint as entry token
-- week 2: sketches of artifacts that defy sense
+- week 1: basic mint as personal grimoire 
+- week 2: sketches of artifacts that defy reason
 - week 3: fragments from generative systems
 - week 4: spaces that hold contradictions
-- week 5: rules that learn to break
+- week 5: break all the rules 
 - week 6: refinement, framing, writing
 - week 7: final artifact and the codex
 
@@ -103,16 +104,9 @@ in the rules.
 - codex:       2 weeks  -> polish, release, exhibition
 - post:        ongoing  -> open docs, follow on mints
 
->>>>> TEAM <<<<<
-####################################################################
-led by fubby14 with support from ritual field weaving systems. past
-work includes 14 x 14, grim 1400, smoke and ash, and wander witch.
-the approach blends design discipline, generative systems, and story
-craft.
-
 >>>>> APPLICATION <<<<<
 ####################################################################
-applications are simple and minimal. we ask for three short answers
+applications are simple and minimal. we ask for four short answers
 and three links to past work. the focus is on your way of thinking,
 not a polished cv.
 
@@ -129,10 +123,10 @@ initiates will be contacted directly.
 >>>>> fubby14 <<<<<
 ####################################################################
 fubby14 is an artist working at the intersection of generative systems,
-blockchain ritual, and narrative design. projects often merge code,
-poetry, and visual form into artifacts that bend systems into new
+blockchain ritual and narrative design. projects often merge code,
+poetry and visual form into artifacts that bend systems into new
 shapes. works like 14x14, grim 1400, and smoke and ash explore slow
-generative processes, ritual mechanics, and ownership as choreography.
+generative processes, ritual mechanics and ownership as choreography.
 
 as both practitioner and witch, fubby14 treats the chain as a stage
 for contradictions: permanence that decays, tokens that wander,
@@ -147,5 +141,5 @@ seeking to reveal the strange edges hidden inside ordinary structures.
 
 >>>>> VERSION AND DATE <<<<<
 ####################################################################
-- version: 0.1 (draft)
-- last updated: 2025-08-17
+- version: 0.14 (draft)
+- last updated: 2025-08-18
