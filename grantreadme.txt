@@ -77,7 +77,7 @@ we use token data and on chain events as seeds, but we do not make
 charts. we make relics. form first. poetry in the parameters. clarity
 in the rules.
 
->>>>> STRUCTURE (weeks 0-7 weeks) <<<<<
+>>>>> STRUCTURE (weeks 0-7) <<<<<
 ####################################################################
 session 0: cross the threshold   [theme: threshold | tool: mallow]
 session 1: see the magic         [theme: fragments | tool: explorers]
