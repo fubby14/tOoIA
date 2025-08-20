@@ -88,7 +88,7 @@ SESSION 4 — BUILD WITH MACHINES
 SESSION 5 — GIVEN FORM
 (theme: conjuration | tool: blender)
   - sculpt relics in three dimensions
-  - grant them surface, weight, and presence
+  - grant them surface, weight and presence
 
 ------------------------------------------------------------------
 SESSION 6 — OPENING THE GATE
